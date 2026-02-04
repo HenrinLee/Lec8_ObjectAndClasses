@@ -16,3 +16,4 @@ public class Student {
         s2.display();
     }
 }
+
